@@ -1,0 +1,48 @@
+# Build output
+/build/
+/out/
+/bin/
+/lib/
+
+# CMake generated files
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/Testing/
+/_deps/
+
+# Visual Studio / VSCode
+/.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiler / linker artifacts
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Shader/compiler intermediates
+*.spv
+
+# Logs and temp
+*.log
+*.tmp
+*.cache
+
+# Do not track project docs/readme in git
+/README.md
+/docs/
